@@ -5,7 +5,7 @@
 * This plugin embeds Line Awesome ver. 1.1 in your website and adds a new ![Icon](/CKEditor_plugins/lineawesome-1.1/icons/lineawesome.png?raw=true) toolbar button to CK Editor for content editing.
 * Because of its .la-123xyz namespace, Line Awesome and Typesetter's bundled Font Awesome ver. 4.7 can be used together without conflict.
 
-See also [Line Awesome by Icons8](https://icons8.com/line-awesome), [Icons8 on GitHub](https://github.com/icons8), [Typesetter Home](http://www.typesettercms.com), [Typesetter on GitHub](https://github.com/Typesetter/Typesetter)
+See also [Line Awesome by Icons8](https://icons8.com/line-awesome), [Icons8 on GitHub](https://github.com/icons8), [Typesetter Home](https://www.typesettercms.com), [Typesetter on GitHub](https://github.com/Typesetter/Typesetter)
 
 
 ## Current Version 
